@@ -24,8 +24,9 @@
   {
     "id": "3",
     "title": "Spolupráce s Milwaukee Tool",
-    "excerpt": "Stali jsme se oficiálním distributorem prémiového nářadí Milwaukee.\n https://cz.milwaukeetool.eu/",
+    "excerpt": "Stali jsme se oficiálním distributorem prémiového nářadí Milwaukee.",
     "date": "2025-01-02",
-    "published": true
+    "published": true,
+    "externalUrl": "https://cz.milwaukeetool.eu/"
   }
 ]

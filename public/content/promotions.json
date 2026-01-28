@@ -1,0 +1,28 @@
+[
+  {
+    "id": "1769587345264",
+    "title": "test",
+    "description": "test",
+    "tag": "Akce",
+    "date": "2026-01-28",
+    "published": true,
+    "imageUrl": "https://raw.githubusercontent.com/janik-technika/expertech/main/public/content/uploads/promotions/1769587354033-7f8047283f1a5bb1a1365390648d0784.jpg",
+    "pdfUrl": "https://raw.githubusercontent.com/janik-technika/expertech/main/public/content/uploads/promotions/1769587392923-2026_01_CZ_Clipper_TR252_TT251_C.pdf"
+  },
+  {
+    "id": "1",
+    "title": "Aktuální prodejní akce",
+    "description": "Využijte aktuální zvýhodněné nabídky na vybraný sortiment nářadí a materiálů.",
+    "tag": "Akce",
+    "date": "2025-01-20",
+    "published": true
+  },
+  {
+    "id": "2",
+    "title": "Speciální nabídky pro firemní zákazníky",
+    "description": "Připravili jsme exkluzivní cenové podmínky pro naše B2B partnery.",
+    "tag": "B2B",
+    "date": "2025-01-15",
+    "published": true
+  }
+]

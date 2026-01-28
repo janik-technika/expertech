@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1769587330159",
+    "title": "test",
+    "excerpt": "test",
+    "date": "2026-01-28",
+    "published": false,
+    "imageUrl": "https://raw.githubusercontent.com/janik-technika/expertech/main/public/content/uploads/news/1769587335944-7f8047283f1a5bb1a1365390648d0784.jpg"
+  },
+  {
+    "id": "1",
+    "title": "Rozšíření portfolia průmyslové chemie",
+    "excerpt": "Nově nabízíme kompletní řadu produktů značky Petec pro automobilový průmysl.",
+    "date": "2025-01-15",
+    "published": true
+  },
+  {
+    "id": "2",
+    "title": "Nová servisní střediska",
+    "excerpt": "Otevřeli jsme nové servisní středisko pro rychlejší vyřízení vašich požadavků.",
+    "date": "2025-01-08",
+    "published": true
+  },
+  {
+    "id": "3",
+    "title": "Spolupráce s Milwaukee Tool",
+    "excerpt": "Stali jsme se oficiálním distributorem prémiového nářadí Milwaukee.",
+    "date": "2025-01-02",
+    "published": true
+  }
+]

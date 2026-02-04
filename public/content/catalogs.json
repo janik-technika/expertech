@@ -78,5 +78,13 @@
     "type": "pdf",
     "url": "https://raw.githubusercontent.com/janik-technika/expertech/main/public/content/uploads/catalogs/1770200826255-SLC_2026_01StalcoledenNR1_emailp.pdf",
     "order": 9
+  },
+  {
+    "id": "1770202646959",
+    "title": "VIDEO NORTON CLIPPER",
+    "description": "",
+    "type": "link",
+    "url": "https://www.youtube.com/watch?v=y2LgUf0dqSg",
+    "order": 10
   }
 ]

@@ -14,7 +14,8 @@
     "description": "Využijte aktuální zvýhodněné nabídky na vybraný sortiment nářadí a materiálů.",
     "tag": "Akce",
     "date": "2025-01-20",
-    "published": true
+    "published": true,
+    "imageUrl": "https://raw.githubusercontent.com/janik-technika/expertech/main/public/content/uploads/promotions/1770201256889-Snmekobrazovky2026-02-04113346pn.png"
   },
   {
     "id": "2",

@@ -50,7 +50,8 @@
     "description": "",
     "type": "pdf",
     "url": "https://raw.githubusercontent.com/janik-technika/expertech/main/public/content/uploads/catalogs/1770303759545-2019_Lenox_EMEA_Katalog_CZ_nnpdf.pdf",
-    "order": 8
+    "order": 8,
+    "imageUrl": "https://raw.githubusercontent.com/janik-technika/expertech/main/public/content/uploads/catalogs/1770303787611-LENOXpng.png"
   },
   {
     "id": "1770202646959",

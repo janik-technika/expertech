@@ -1,59 +1,11 @@
 [
   {
-    "id": "1770295768904",
-    "title": "AKCE OBKLADACI PILA TR 252 + PILA TT 251",
+    "id": "1770296974735",
+    "title": "Akce STALCO",
     "description": "",
     "tag": "Akce",
     "date": "2026-02-05",
     "published": false,
-    "pdfUrl": "https://raw.githubusercontent.com/janik-technika/expertech/main/public/content/uploads/promotions/1770295778921-2026_01_CZ_Clipper_TR252_TT251_C.pdf",
-    "imageUrl": "https://raw.githubusercontent.com/janik-technika/expertech/main/public/content/uploads/promotions/1770295858936-Snmekobrazovky2026-02-05134723pn.png"
-  },
-  {
-    "id": "1770295573628",
-    "title": "AKCE KAMENICKA PILA CM 43 + 3 KOTOUCE",
-    "description": "",
-    "tag": "Akce",
-    "date": "2026-02-05",
-    "published": true,
-    "pdfUrl": "https://raw.githubusercontent.com/janik-technika/expertech/main/public/content/uploads/promotions/1770295619213-2026_AKCE_CM43_KOTOUCE_CZKpdf.pdf",
-    "imageUrl": "https://raw.githubusercontent.com/janik-technika/expertech/main/public/content/uploads/promotions/1770295658762-Snmekobrazovky2026-02-05134723pn.png"
-  },
-  {
-    "id": "1770295237388",
-    "title": "AKCE BLOKOVÁ PILA JUMBO",
-    "description": "",
-    "tag": "Akce",
-    "date": "2026-02-05",
-    "published": true,
-    "pdfUrl": "https://raw.githubusercontent.com/janik-technika/expertech/main/public/content/uploads/promotions/1770295263326-2026_01_AKCE-JUMBO-651_CZKpdf.pdf",
-    "imageUrl": "https://raw.githubusercontent.com/janik-technika/expertech/main/public/content/uploads/promotions/1770295337795-Snmekobrazovky2026-02-05134156pn.png"
-  },
-  {
-    "id": "1770204708290",
-    "title": "DÍLENSKÝ VOZÍK",
-    "description": "",
-    "tag": "Akce",
-    "date": "2026-02-04",
-    "published": true,
-    "pdfUrl": "https://raw.githubusercontent.com/janik-technika/expertech/main/public/content/uploads/promotions/1770204764722-DLENSKVOZKSTALCOpdf.pdf",
-    "imageUrl": "https://raw.githubusercontent.com/janik-technika/expertech/main/public/content/uploads/promotions/1770204946768-Snmekobrazovky2026-02-04123452pn.png"
-  },
-  {
-    "id": "1770200651724",
-    "title": "STALCO",
-    "description": "2.1. - 28.2.2026",
-    "tag": "Akce",
-    "date": "2026-02-04",
-    "published": true,
-    "pdfUrl": "https://raw.githubusercontent.com/janik-technika/expertech/main/public/content/uploads/promotions/1770200720723-SLC_2026_01StalcoledenNR1_emailp.pdf"
-  },
-  {
-    "id": "2",
-    "title": "Speciální nabídky pro firemní zákazníky",
-    "description": "Připravili jsme exkluzivní cenové podmínky pro naše B2B partnery.",
-    "tag": "B2B",
-    "date": "2025-01-15",
-    "published": true
+    "pdfUrl": "https://raw.githubusercontent.com/janik-technika/expertech/main/public/content/uploads/promotions/1770297118340-2026_01_SLC_StalcoledenNR1_TISK_.pdf"
   }
 ]

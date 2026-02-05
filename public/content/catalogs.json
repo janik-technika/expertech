@@ -5,7 +5,8 @@
     "description": "NORTON",
     "type": "pdf",
     "url": "https://raw.githubusercontent.com/janik-technika/expertech/main/public/content/uploads/catalogs/1770201644715-2025_AAM_CZ_katalog_FINAL_CENY_W.pdf",
-    "order": 1
+    "order": 1,
+    "imageUrl": "https://raw.githubusercontent.com/janik-technika/expertech/main/public/content/uploads/catalogs/1770303059252-nortonpng.png"
   },
   {
     "id": "2",
@@ -13,7 +14,8 @@
     "description": "Katalog řezaček Clipper",
     "type": "pdf",
     "url": "/catalogs/2026_01_CZ_Clipper_TR252_TT251_CZK.pdf",
-    "order": 2
+    "order": 2,
+    "imageUrl": "https://raw.githubusercontent.com/janik-technika/expertech/main/public/content/uploads/catalogs/1770303012131-clipperpng.png"
   },
   {
     "id": "3",
@@ -21,7 +23,8 @@
     "description": "Katalog Stalco - leden 2026",
     "type": "pdf",
     "url": "/catalogs/2026_01_SLC_Stalco_leden_NR1_TISK_Expert.pdf",
-    "order": 3
+    "order": 3,
+    "imageUrl": "https://raw.githubusercontent.com/janik-technika/expertech/main/public/content/uploads/catalogs/1770303006884-stalcopng.png"
   },
   {
     "id": "1770202646959",

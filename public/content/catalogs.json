@@ -42,7 +42,15 @@
     "type": "pdf",
     "url": "https://raw.githubusercontent.com/janik-technika/expertech/main/public/content/uploads/catalogs/1770303636033-2024_IRWIN_HTS_CZ_hi-res_o_compr.pdf",
     "order": 7,
-    "imageUrl": "https://raw.githubusercontent.com/janik-technika/expertech/main/public/content/uploads/catalogs/1770303715200-LENOXpng.png"
+    "imageUrl": "https://raw.githubusercontent.com/janik-technika/expertech/main/public/content/uploads/catalogs/1770303730814-irwinpng.png"
+  },
+  {
+    "id": "1770303743074",
+    "title": "LENOX KATALOG",
+    "description": "",
+    "type": "pdf",
+    "url": "https://raw.githubusercontent.com/janik-technika/expertech/main/public/content/uploads/catalogs/1770303759545-2019_Lenox_EMEA_Katalog_CZ_nnpdf.pdf",
+    "order": 8
   },
   {
     "id": "1770202646959",

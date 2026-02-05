@@ -5,8 +5,9 @@
     "description": "",
     "tag": "Akce",
     "date": "2026-02-05",
-    "published": false,
-    "pdfUrl": "https://raw.githubusercontent.com/janik-technika/expertech/main/public/content/uploads/promotions/1770295619213-2026_AKCE_CM43_KOTOUCE_CZKpdf.pdf"
+    "published": true,
+    "pdfUrl": "https://raw.githubusercontent.com/janik-technika/expertech/main/public/content/uploads/promotions/1770295619213-2026_AKCE_CM43_KOTOUCE_CZKpdf.pdf",
+    "imageUrl": "https://raw.githubusercontent.com/janik-technika/expertech/main/public/content/uploads/promotions/1770295658762-Snmekobrazovky2026-02-05134723pn.png"
   },
   {
     "id": "1770295237388",

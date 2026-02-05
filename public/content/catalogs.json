@@ -27,6 +27,14 @@
     "imageUrl": "https://raw.githubusercontent.com/janik-technika/expertech/main/public/content/uploads/catalogs/1770303006884-stalcopng.png"
   },
   {
+    "id": "1770303322446",
+    "title": "IRWIN KATALOG PŘÍSLUŠENSTVÍ",
+    "description": "",
+    "type": "pdf",
+    "url": "https://raw.githubusercontent.com/janik-technika/expertech/main/public/content/uploads/catalogs/1770303384270-2024_IRWIN_PTA_CZ_lo-res_opdf.pdf",
+    "order": 6
+  },
+  {
     "id": "1770202646959",
     "title": "VIDEO NORTON CLIPPER",
     "description": "",

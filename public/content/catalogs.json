@@ -32,7 +32,16 @@
     "description": "",
     "type": "pdf",
     "url": "https://raw.githubusercontent.com/janik-technika/expertech/main/public/content/uploads/catalogs/1770303384270-2024_IRWIN_PTA_CZ_lo-res_opdf.pdf",
-    "order": 6
+    "order": 6,
+    "imageUrl": "https://raw.githubusercontent.com/janik-technika/expertech/main/public/content/uploads/catalogs/1770303422760-irwinpng.png"
+  },
+  {
+    "id": "1770303434922",
+    "title": "IRWIN KATALOG RUČNÍHO NÁŘADÍ",
+    "description": "",
+    "type": "pdf",
+    "url": "https://raw.githubusercontent.com/janik-technika/expertech/main/public/content/uploads/catalogs/1770303636033-2024_IRWIN_HTS_CZ_hi-res_o_compr.pdf",
+    "order": 7
   },
   {
     "id": "1770202646959",

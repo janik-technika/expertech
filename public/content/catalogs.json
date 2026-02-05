@@ -8,14 +8,6 @@
     "order": 1
   },
   {
-    "id": "1",
-    "title": "Akce JUMBO 651",
-    "description": "Akční katalog JUMBO - leden 2026",
-    "type": "pdf",
-    "url": "/catalogs/2026_01_AKCE-JUMBO-651_CZK.pdf",
-    "order": 1
-  },
-  {
     "id": "2",
     "title": "Clipper TR252/TT251",
     "description": "Katalog řezaček Clipper",
@@ -30,54 +22,6 @@
     "type": "pdf",
     "url": "/catalogs/2026_01_SLC_Stalco_leden_NR1_TISK_Expert.pdf",
     "order": 3
-  },
-  {
-    "id": "4",
-    "title": "Akce PILA CB511",
-    "description": "Akční katalog pil 2026",
-    "type": "pdf",
-    "url": "/catalogs/2026_AKCE_PILA_CB511_CZK.pdf",
-    "order": 4
-  },
-  {
-    "id": "5",
-    "title": "Online katalog 1",
-    "description": "Prohlédněte si katalog online",
-    "type": "link",
-    "url": "https://share.google/dUYz4v3YrbNF3uWkY",
-    "order": 5
-  },
-  {
-    "id": "6",
-    "title": "Online katalog 2",
-    "description": "Prohlédněte si katalog online",
-    "type": "link",
-    "url": "https://share.google/uBa4m1auXHbexkjNp",
-    "order": 6
-  },
-  {
-    "id": "7",
-    "title": "Online katalog 3",
-    "description": "Prohlédněte si katalog online",
-    "type": "link",
-    "url": "https://share.google/ysPizjfsVjPjeBlgr",
-    "order": 7
-  },
-  {
-    "id": "1770200796541",
-    "title": "",
-    "description": "",
-    "type": "link",
-    "url": "",
-    "order": 8
-  },
-  {
-    "id": "1770200810420",
-    "title": "test katalog",
-    "description": "",
-    "type": "pdf",
-    "url": "https://raw.githubusercontent.com/janik-technika/expertech/main/public/content/uploads/catalogs/1770200826255-SLC_2026_01StalcoledenNR1_emailp.pdf",
-    "order": 9
   },
   {
     "id": "1770202646959",

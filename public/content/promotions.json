@@ -6,7 +6,8 @@
     "tag": "Akce",
     "date": "2026-02-05",
     "published": false,
-    "pdfUrl": "https://raw.githubusercontent.com/janik-technika/expertech/main/public/content/uploads/promotions/1770295263326-2026_01_AKCE-JUMBO-651_CZKpdf.pdf"
+    "pdfUrl": "https://raw.githubusercontent.com/janik-technika/expertech/main/public/content/uploads/promotions/1770295263326-2026_01_AKCE-JUMBO-651_CZKpdf.pdf",
+    "imageUrl": "https://raw.githubusercontent.com/janik-technika/expertech/main/public/content/uploads/promotions/1770295337795-Snmekobrazovky2026-02-05134156pn.png"
   },
   {
     "id": "1770204708290",
@@ -26,15 +27,6 @@
     "date": "2026-02-04",
     "published": true,
     "pdfUrl": "https://raw.githubusercontent.com/janik-technika/expertech/main/public/content/uploads/promotions/1770200720723-SLC_2026_01StalcoledenNR1_emailp.pdf"
-  },
-  {
-    "id": "1",
-    "title": "Aktuální prodejní akce",
-    "description": "Využijte aktuální zvýhodněné nabídky na vybraný sortiment nářadí a materiálů.",
-    "tag": "Akce",
-    "date": "2025-01-20",
-    "published": true,
-    "imageUrl": "https://raw.githubusercontent.com/janik-technika/expertech/main/public/content/uploads/promotions/1770201256889-Snmekobrazovky2026-02-04113346pn.png"
   },
   {
     "id": "2",

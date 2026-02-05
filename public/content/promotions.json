@@ -1,11 +1,20 @@
 [
   {
+    "id": "1770298676161",
+    "title": "AKCE BLOKOVA PILA JUMBO 651 + KOTOUC ZA AKCNI CENU",
+    "description": "",
+    "tag": "Akce",
+    "date": "2026-02-05",
+    "published": false,
+    "imageUrl": "https://raw.githubusercontent.com/janik-technika/expertech/main/public/content/uploads/promotions/1770298712162-Snmekobrazovky2026-02-05134156pn.png"
+  },
+  {
     "id": "1770298550993",
     "title": "AKCE PASOVA PILA CB 511 + 2 PASY",
     "description": "",
     "tag": "Akce",
     "date": "2026-02-05",
-    "published": false,
+    "published": true,
     "pdfUrl": "https://raw.githubusercontent.com/janik-technika/expertech/main/public/content/uploads/promotions/1770298589313-2026_AKCE_PILA_CB511_CZKpdf.pdf",
     "imageUrl": "https://raw.githubusercontent.com/janik-technika/expertech/main/public/content/uploads/promotions/1770298646011-pasovapilapng.png"
   },
